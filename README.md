@@ -8,12 +8,7 @@
   <img src="https://user-images.githubusercontent.com/57852378/93742512-d8c74800-fc0b-11ea-9e64-ec554be7cd59.png"  width="40" height="40"/>
   
   </a>
-  
-<a href="mailto:purnimasharma@gmail.com" target="_blank" title="Mail me ">
-
-  <img src="https://user-images.githubusercontent.com/57852378/93742513-d8c74800-fc0b-11ea-9ddd-6eaccdad68ed.png"  width="40" height="40"/>
-  </a>
- <a href="https://www.facebook.com/profile.php?id=100012452583609" target="_blank" title="Be a Friend to Purnima Sharma on fb">
+   <a href="https://www.facebook.com/profile.php?id=100012452583609" target="_blank" title="Be a Friend to Purnima Sharma on fb">
   
   <img src="https://user-images.githubusercontent.com/57852378/93742514-d95fde80-fc0b-11ea-89a8-efb7b5a91cb9.png"  width="40" height="40"/> 
   </a>
