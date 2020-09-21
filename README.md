@@ -1,6 +1,15 @@
 ![Blue Illustrated General Grocery Supplies Online Service Grocery Facebook Cover (6)](https://user-images.githubusercontent.com/57852378/93759267-82680280-fc27-11ea-9a36-62b7d09823e1.gif)
-<h3 align="center">Connect with me</h3>
+<p align="center">
+ 👋 I'm Purnima Sharma,an Web Developer 💻 from India.<br/>
+ 🏘I'm pursuing Bachelor of Engineering in Information Science and Engineering.<br/>
+🔭 I love to explore everything 😁 <br/>
+⏳ Experimenting with JS and learning React<br/>
+🔬 Always ready to collaborate for Dev Experiments<br/>
+🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"<br/>
+😍I enjoy sketching 🖌✏ and listening songs🎵🎶
 <br/>
+  <h3 align="center">Reach me out</h3>
+
 <p align="center" ">
                    
 <a href="mailto:purnimasharma@gmail.com" target="_blank" title="Mail me ">
@@ -8,7 +17,7 @@
   <img src="https://user-images.githubusercontent.com/57852378/93742512-d8c74800-fc0b-11ea-9e64-ec554be7cd59.png"  width="40" height="40"/>
   
   </a>
-   <a href="https://www.facebook.com/profile.php?id=100012452583609" target="_blank" title="Be a Friend to Purnima Sharma on fb">
+   <a href="https://www.facebook.com/profile.php?id=100012452583609" target="blank" title="Be a Friend to Purnima Sharma on fb">
   
   <img src="https://user-images.githubusercontent.com/57852378/93742514-d95fde80-fc0b-11ea-89a8-efb7b5a91cb9.png"  width="40" height="40"/> 
   </a>
@@ -33,8 +42,10 @@
   
 
 </p>
+<br/>
 
 ---
+
 
 <br/>
 <h3 align="center">Languages & tools</h3>
