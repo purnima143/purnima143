@@ -1,4 +1,4 @@
-### Hi there, I'm Purnima Sharma 👋
+![Blue Illustrated General Grocery Supplies Online Service Grocery Facebook Cover (1)](https://user-images.githubusercontent.com/57852378/93741405-fd222500-fc09-11ea-8b2a-6f0c38f6c3b6.gif)
 ### Connect with me:
 
 [<img align="center" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
