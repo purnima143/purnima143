@@ -42,12 +42,10 @@
   
 
 </p>
-<br/>
 
 ---
 
 
-<br/>
 <h3 align="center">Languages & tools</h3>
 <br/>
 <p align="center"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
@@ -64,8 +62,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></p>
 
-<br />
-<br />
+
 
 
 ---
