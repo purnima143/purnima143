@@ -2,7 +2,7 @@
 <h3 align="center">Connect with me</h3>
 <br/>
 <p align="center" ">
-                   <a href="www.google.com" >
+                   <a href="https://www.google.com/" >
   <img src="https://user-images.githubusercontent.com/57852378/93742512-d8c74800-fc0b-11ea-9e64-ec554be7cd59.png"  width="40" height="40" "/></a>
   <img src="https://user-images.githubusercontent.com/57852378/93742513-d8c74800-fc0b-11ea-9ddd-6eaccdad68ed.png"  width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/57852378/93742514-d95fde80-fc0b-11ea-89a8-efb7b5a91cb9.png"  width="40" height="40"/> 
