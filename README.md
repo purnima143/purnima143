@@ -3,7 +3,7 @@
  👋 I'm Purnima Sharma,an Web Developer 💻 from India.<br/>
  🏘I'm pursuing Bachelor of Engineering in Information Science and Engineering.<br/>
 🔭 I love to explore everything 😁 <br/>
-⏳ Experimenting with JS and learning React<br/>
+⏳ Experimenting with JS and learning AR<br/>
 🔬 Always ready to collaborate for Dev Experiments<br/>
 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"<br/>
 😍I enjoy sketching 🖌✏ and listening songs🎵🎶
