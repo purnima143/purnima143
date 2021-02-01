@@ -1,4 +1,5 @@
-![Blue Illustrated General Grocery Supplies Online Service Grocery Facebook Cover (3)](https://user-images.githubusercontent.com/57852378/101752690-cae0df00-3af7-11eb-84cc-d99000f50d52.gif)
+![Blue Illustrated General Grocery Supplies Online Service Grocery Facebook Cover (5)](https://user-images.githubusercontent.com/57852378/106479333-3b8cf200-64d0-11eb-9d08-db90d2de603a.gif)
+
 
 <p align="left">
  👋 I'm Purnima Sharma,a Web Developer 💻 from India.<br/>
